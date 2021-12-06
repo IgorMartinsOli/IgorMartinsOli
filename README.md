@@ -1,4 +1,4 @@
-## Opa, tudo bem? eu sou o Igor!
+## Opa, tudo bem? eu sou o Igor! atualmente estou estudando programação no curso de Sistema para Internet no IFGoiano, trabalho como analista de talentos humanos e estou aberto para oportunidades na area de desenvolvimento!
  <hr>
  
 
