@@ -1,4 +1,4 @@
-## Opa, tudo bem? eu sou o Igor! atualmente estou cursando Sistema para Internet no IFGoiano, trabalho como analista de talentos humanos (rh/th) e estou aberto para oportunidades na area de desenvolvimento!
+## Opa, eu sou o Igor! atualmente estou cursando Sistema para Internet no IFGoiano, trabalho como analista de talentos humanos (rh/th) e estou aberto para oportunidades na area de desenvolvimento!
  <hr>
  
 
