@@ -1,8 +1,8 @@
 ###
-<p align="left">hey, I'm Igor!</p>
+<h1><p align="left">hey, I'm Igor!</p></h1>
 
 ###
-<p align="left">🔭 I'm a student of internet systems at IFGoiano<br>🌱 I’m currently learning NodeJS and Java<br>👨‍💻 I intend to be a fullstack web developer<br>💼 Looking for first opportunity as a developer</p>
+<h2><p align="left">🔭 I'm a student of internet systems at IFGoiano<br>🌱 I’m currently learning NodeJS and Java<br>👨‍💻 I intend to be a fullstack web developer<br>💼 Looking for first opportunity as a developer</p></h2>
 
 ###
 <p align="left">Social</p>
