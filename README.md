@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/IgorMartinsOli/count.svg?"  />
-</div>
-
 ###
 <p align="left">hey, I'm Igor!</p>
 
